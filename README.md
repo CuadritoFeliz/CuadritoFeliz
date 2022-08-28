@@ -1,5 +1,5 @@
 - 👋 Hola, soy cuadrito
-- 👀 Estoy interesado en Discord, Roblox y tambien en dibujo
+- 👀 Estoy interesado en Discord, osu y tambien en dibujo
 - 🌱 Estoy aprendiendo python, C# y java
 
 
